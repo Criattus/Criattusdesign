@@ -83,7 +83,7 @@ body {
 
 a,
 a:visited {
-  color: #0087cc;
+  color: #fff;
   -webkit-transition: all 0.3s ease-in-out;
   transition: all 0.3s ease-in-out;
 }
